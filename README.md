@@ -1,2 +1,1 @@
-# python-programming
-learning python
+print("string")
